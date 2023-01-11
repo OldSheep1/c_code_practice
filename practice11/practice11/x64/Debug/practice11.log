@@ -1,0 +1,3 @@
+﻿  practice11.c
+F:\github\practice_c_code\practice11\practice11\practice11.c(28): warning C4715: “my_strlen”: 不是所有的控件路径都返回值
+  practice11.vcxproj -> F:\github\practice_c_code\practice11\x64\Debug\practice11.exe
